@@ -8,13 +8,14 @@ I'm a positive, hardworking, and growth-oriented person who believes in continuo
 Outside academics, I enjoy basketball, cooking, exercising, and traveling.
 
 I created this GitHub to document my journey, share my projects, and keep improving step by step.
+
 **Education:** 
 - BS Computer Science
 - New Era University
   
 **Certifications:**  
 - (https://www.freecodecamp.org/certification/ivan_s_abduhadi/responsive-web-design) 
-- (Add more when you have them)
+
 
 **Skills:**  
 - SQL (DB2, MySQL)   
