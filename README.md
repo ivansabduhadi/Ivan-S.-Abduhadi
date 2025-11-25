@@ -14,7 +14,8 @@ I created this GitHub to document my journey, share my projects, and keep improv
 - New Era University
   
 **Certifications:**  
-- (https://www.freecodecamp.org/certification/ivan_s_abduhadi/responsive-web-design) 
+- HTML/CSS(https://www.freecodecamp.org/certification/ivan_s_abduhadi/responsive-web-design)
+- SQL (DB2, MySQL)  https://courses.cognitiveclass.ai/certificates/e0b6ea1bc5854bd99fa57c59be134d05#
 
 
 **Skills:**  
